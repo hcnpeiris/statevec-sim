@@ -11,10 +11,10 @@ pip install -r requirements.txt
 
 subtask1.py - Plot the runtime of your code as a function of the number of qubits.
 
-![image of the plot]
+![image1]
 
 ## Simulation Using Tensor Multiplication
 
 subtask1.py - Plot the runtime of your code as a function of the number of qubits.
 
-![image of the plot]
+![image1]
