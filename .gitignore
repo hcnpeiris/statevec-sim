@@ -1,1 +1,1 @@
-touch .gitignore notes.txt
+venv __pycache__ notes.txt
